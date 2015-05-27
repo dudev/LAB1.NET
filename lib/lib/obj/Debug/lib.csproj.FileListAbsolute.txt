@@ -1,0 +1,5 @@
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\lib\bin\Debug\lib.dll
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\lib\bin\Debug\lib.pdb
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\lib\obj\Debug\lib.dll
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\lib\obj\Debug\lib.pdb

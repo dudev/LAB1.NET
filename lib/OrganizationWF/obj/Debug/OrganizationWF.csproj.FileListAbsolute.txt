@@ -1,0 +1,11 @@
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\bin\Debug\OrganizationWF.exe.config
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\bin\Debug\OrganizationWF.exe
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\bin\Debug\OrganizationWF.pdb
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\bin\Debug\lib.dll
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\bin\Debug\lib.pdb
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\obj\Debug\OrganizationWF.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\obj\Debug\OrganizationWF.Form1.resources
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\obj\Debug\OrganizationWF.Properties.Resources.resources
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\obj\Debug\OrganizationWF.csproj.GenerateResource.Cache
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\obj\Debug\OrganizationWF.exe
+C:\Users\Евгений\YandexDisk-admin@dudev.ru\универ\6 семестр\net\lab1\lib\OrganizationWF\obj\Debug\OrganizationWF.pdb
